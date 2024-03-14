@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name" translatable="false">LAB exam2</string>
+
+    <string name="bidButton" translatable="false">Bid</string>
+    <string name="readMoreButton" translatable="false">Read more</string>
+    <string name="CurrentBid" translatable="false">Current Bid</string>
+    <string name="nextButton" translatable="false">Next</string>
+
+    <string name="onboard1_title" translatable="false">Dive into Auctions!</string>
+    <string name="onboard1_body" translatable="false">By conducting online auctions, we assist you in finding valuable stones all over the world !</string>
+
+    <string name="onboard2_title" translatable="false">Discover Exquisite stones</string>
+    <string name="onboard2_body" translatable="false">Explore a world of breathtaking gemstones waiting to be discovered</string>
+
+    <string name="onboard3_title" translatable="false">Find your next beauty</string>
+    <string name="onboard3_body" translatable="false">Bid for natural beauties and make them yours</string>
+
+    <string name="page1_title" translatable="false">Home</string>
+    <string name="greeting" translatable="false">Hello</string>
+    <string name="userName" translatable="false">User</string>
+    <string name="diamonds" translatable="false">Diamonds</string>
+    <string name="amethyst" translatable="false">Amethyst</string>
+    <string name="sapphire" translatable="false">Sapphire</string>
+    <string name="garnet" translatable="false">Garnet</string>
+    <string name="ruby" translatable="false">Ruby</string>
+    <string name="opal" translatable="false">Opal</string>
+    <string name="pearl" translatable="false">Pearl</string>
+
+    <string name="homeView1" translatable="false">Categories</string>
+    <string name="homeView2" translatable="false">Trending Auctions</string>
+
+    <string name="page2_title" translatable="false">Live Auctions</string>
+    <string name="gemPrice1" translatable="false">$25,600</string>
+    <string name="gemPrice2" translatable="false">$22,000</string>
+    <string name="gemPrice3" translatable="false">$125,000</string>
+    <string name="gemPrice4" translatable="false">$85,800</string>
+
+    <string name="page3_title" translatable="false">Profile</string>
+    <string name="userCountry" translatable="false">Country</string>
+    <string name="userGender" translatable="false">Gender</string>
+
+    <string name="page4_title" translatable="false">News</string>
+    <string name="news1Title" translatable="false">A Unique Gemstone Marvel</string>
+    <string name="news1Body" translatable="false">In the world of gemstones, Mozambique rubies are celebrated for their breathtaking beauty and unmatched  allure. However, what sets </string>
+    <string name="news2Title" translatable="false">Gemstone Shows Around the Globe</string>
+    <string name="news2Body" translatable="false">Gemstone shows are vibrant celebrations of nature’s treasures, where the world’s most stunning gemstones are unveiled to a captivated audience</string>
+    <string name="news3Title" translatable="false">The Rising Star in Jewelry</string>
+    <string name="news3Body" translatable="false">In recent years, the jewelry industry has witnessed a fascinating shift in preferences as teal blue sapphires</string>
+
+    <string name="page5_title" translatable="false">Let’s Get Started</string>
+    <string name="login_title1" translatable="false">Create your account</string>
+    <string name="login_name" translatable="false"> User Name</string>
+    <string name="login_email" translatable="false"> Email</string>
+    <string name="login_password" translatable="false"> Password</string>
+    <string name="login_conpassword" translatable="false"> Confirm Password</string>
+    <string name="login_checkBox" translatable="false">I agree to the Terms and Conditions</string>
+    <string name="login_btn" translatable="false">Get Started</string>
+
+    <string name="page6_title" translatable="false">Red Ruby</string>
+    <string name="code" translatable="false">Code :</string>
+    <string name="weight" translatable="false">Weight :</string>
+    <string name="origin" translatable="false">Origin :</string>
+    <string name="shape" translatable="false">Shape :</string>
+    <string name="treatment" translatable="false">Treatment :</string>
+    <string name="color" translatable="false">Color :</string>
+    <string name="descriptionName" translatable="false">Description</string>
+    <string name="descriptionBody" translatable="false">Red Ruby is a precious gemstone known for its vibrant red color. It belongs to the corundum mineral family, alongside sapphires. Rubies are prized for their beauty and durability, symbolizing passion, energy, and love. They are often used in jewelry, such as rings, necklaces, and earrings.</string>
+    <string name="auctionTime" translatable="false">Auction End : </string>
+    <string name="higestBid" translatable="false">Current Bid : </string>
+    <string name="yourAmount" translatable="false">Type Your Bid</string>
+    <string name="submitBit" translatable="false">Place Bid</string>
+    <string name="bidListName" translatable="false">Highest Bids</string>
+    <string name="otherUserName" translatable="false">User Name</string>
+    <string name="otherUserAmount" translatable="false">$30,000</string>
+</resources>
